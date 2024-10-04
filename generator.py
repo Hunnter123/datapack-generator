@@ -72,6 +72,9 @@ place.place(x=175, y=200)
 name_box = tk.Entry(window, width=30)
 name_box.place(x=150, y=125)
 
+name_lable = tk.Label(window, text="name")
+name_lable.place(x=225, y=100)
+
 ticklable = tk.Label(window, text="tick.mcfunction")
 ticklable.place(x=75, y=270)
 loadlable = tk.Label(window, text="load.mcfunction")
