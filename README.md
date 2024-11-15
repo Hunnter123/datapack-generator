@@ -1,5 +1,4 @@
-![Screenshot 2024-10-05 103052](https://github.com/user-attachments/assets/eb6dc840-7989-454a-aecd-faa31d42ad61)
-
+![image](https://github.com/user-attachments/assets/11208346-bbfa-4cc7-8627-1167437d6d86)
 
 dependencies:
 
