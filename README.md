@@ -8,4 +8,4 @@ how to use:
 
 (optinal)add commands to load.mcfunction and tick.mcfunction
 
-4.create the pack
+3.create the pack
